@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0EAECA-738D-484E-ABF1-AD8FDDF54D8A}|interbank-app\\interbank-app.csproj|d:\\usuarios\\jeremy\\documentos\\programmation\\c#\\interbank-app\\interbank-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0EAECA-738D-484E-ABF1-AD8FDDF54D8A}|interbank-app\\interbank-app.csproj|solutionrelative:interbank-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0EAECA-738D-484E-ABF1-AD8FDDF54D8A}|interbank-app\\interbank-app.csproj|d:\\usuarios\\jeremy\\documentos\\programmation\\c#\\interbank-app\\interbank-app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0EAECA-738D-484E-ABF1-AD8FDDF54D8A}|interbank-app\\interbank-app.csproj|solutionrelative:interbank-app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954E9666-3B7B-4806-9854-5836785FC681}|interbank-data\\interbank-data.csproj|d:\\usuarios\\jeremy\\documentos\\programmation\\c#\\interbank-app\\interbank-data\\auth\\repository\\authenticationrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954E9666-3B7B-4806-9854-5836785FC681}|interbank-data\\interbank-data.csproj|solutionrelative:interbank-data\\auth\\repository\\authenticationrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Migrations\\20260516162645_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interbank-app\\Migrations\\20260516162645_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954E9666-3B7B-4806-9854-5836785FC681}|interbank-data\\interbank-data.csproj|d:\\usuarios\\jeremy\\documentos\\programmation\\c#\\interbank-app\\interbank-data\\source\\database\\seeds\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954E9666-3B7B-4806-9854-5836785FC681}|interbank-data\\interbank-data.csproj|solutionrelative:interbank-data\\source\\database\\seeds\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954E9666-3B7B-4806-9854-5836785FC681}|interbank-data\\interbank-data.csproj|d:\\usuarios\\jeremy\\documentos\\programmation\\c#\\interbank-app\\interbank-data\\source\\database\\interbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954E9666-3B7B-4806-9854-5836785FC681}|interbank-data\\interbank-data.csproj|solutionrelative:interbank-data\\source\\database\\interbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0EAECA-738D-484E-ABF1-AD8FDDF54D8A}|interbank-app\\interbank-app.csproj|d:\\usuarios\\jeremy\\documentos\\programmation\\c#\\interbank-app\\interbank-app\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0EAECA-738D-484E-ABF1-AD8FDDF54D8A}|interbank-app\\interbank-app.csproj|solutionrelative:interbank-app\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "interbank-app\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "interbank-app\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:36:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-data\\Auth\\Repository\\AuthenticationRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "interbank-data\\Auth\\Repository\\AuthenticationRepositoryImpl.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-data\\Auth\\Repository\\AuthenticationRepositoryImpl.cs",
+              "RelativeToolTip": "interbank-data\\Auth\\Repository\\AuthenticationRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:31:05.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260516162645_Initial.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Migrations\\20260516162645_Initial.cs",
+              "RelativeDocumentMoniker": "interbank-app\\Migrations\\20260516162645_Initial.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Migrations\\20260516162645_Initial.cs",
+              "RelativeToolTip": "interbank-app\\Migrations\\20260516162645_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:26:45.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Program.cs",
+              "RelativeDocumentMoniker": "interbank-app\\Program.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\Program.cs",
+              "RelativeToolTip": "interbank-app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:22:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterbankDbContext.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-data\\Source\\Database\\InterbankDbContext.cs",
+              "RelativeDocumentMoniker": "interbank-data\\Source\\Database\\InterbankDbContext.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-data\\Source\\Database\\InterbankDbContext.cs",
+              "RelativeToolTip": "interbank-data\\Source\\Database\\InterbankDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:22:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-data\\Source\\Database\\Seeds\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "interbank-data\\Source\\Database\\Seeds\\ModelBuilderExtensions.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-data\\Source\\Database\\Seeds\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "interbank-data\\Source\\Database\\Seeds\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:20:25.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "interbank-app\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Usuarios\\JEREMY\\Documentos\\PROGRAMMATION\\c#\\interbank-app\\interbank-app\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "interbank-app\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:18:05.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

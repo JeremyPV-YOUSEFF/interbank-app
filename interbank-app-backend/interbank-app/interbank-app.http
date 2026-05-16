@@ -1,0 +1,6 @@
+@interbank_app_HostAddress = http://localhost:5067
+
+GET {{interbank_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

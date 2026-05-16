@@ -1,0 +1,15 @@
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.csproj.AssemblyReference.cache
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.AssemblyInfoInputs.cache
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.AssemblyInfo.cs
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.csproj.CoreCompileInputs.cache
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\bin\Debug\net8.0\interbank-data.deps.json
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\bin\Debug\net8.0\interbank-data.dll
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\bin\Debug\net8.0\interbank-data.pdb
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\bin\Debug\net8.0\interbank-domain.dll
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\bin\Debug\net8.0\interbank-domain.pdb
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interban.8F0FD8B2.Up2Date
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.dll
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\refint\interbank-data.dll
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\interbank-data.pdb
+D:\Usuarios\JEREMY\Documentos\PROGRAMMATION\c#\interbank-app\interbank-data\obj\Debug\net8.0\ref\interbank-data.dll
