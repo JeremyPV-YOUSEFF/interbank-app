@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+@import "tailwindcss-primeui";
+
+@theme{
+
+    --color-main : #1339A6;
+    --color-secondary : #3961B8;
+    --color-card : #00BD50;
+    --color-letter : #0F191E;
+    --color-card2 : #EFAA0E;
+    --color-card3: #1691CA;
+    --color-card4: #34CA73;
+
+    --color-1: #265B29;
+    --color-2: #264448;
+    --color-3: #7ECA9B;
+
+    --font-montserrat : "Montserrat", sans-serif;
+
+    --spacing-main : 15rem;
+
+    --text-tiny : 0.8rem
+
+}

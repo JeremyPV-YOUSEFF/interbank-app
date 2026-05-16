@@ -1,0 +1,40 @@
+<header>
+    <div class="bg-main px-main">
+        <ul class="uppercase flex *:px-3 text-sm *:cursor-pointer *:py-2 font-semibold text-white" >
+            <li class="bg-secondary" >Personas</li>
+            <li>Negocios</li>
+            <li>Empresas e Instituciones</li>
+        </ul>
+    </div>
+    <div class="mx-main py-3">
+        <menu class="flex items-center justify-between uppercase text-sm text-letter font-semibold" >
+            <li class="pr-10" >
+                <img src="./assets/images/logoI.png" alt="" class="h-7" >
+            </li>
+            <li class="pr-5">Productos</li>
+            <li class="pr-5">Promociones</li>
+            <li class="pr-5">Zona digital</li>
+            <li class="pr-10">Ayuda y contacto</li>
+            <li class="pr-5" >
+                <i class="fa-brands fa-whatsapp text-3xl"></i>
+            </li>
+            <li class="pr-5" >
+                <i class="fa-solid fa-magnifying-glass text-2xl"></i>
+            </li>
+            <li  >
+                <app-button-custome text="Abre tu cuenta" />
+            </li>
+            <li class="relative" >
+                <app-button-custome (onClick)="changeVisibility()" text="Banca por internet" type="blue" />
+                @if (!isHidden()) {
+                    <div 
+                    class="absolute border w-full -bottom-28 *:pl-5 z-50 bg-white *:py-4 font-semibold">
+                        <h3 routerLink="/login" class="border-b border-black hover:text-card cursor-pointer">Persona</h3>
+                        <h3 routerLink="/login" class="border-b border-black hover:text-card cursor-pointer">Empresa</h3>
+                    </div>
+                }
+                
+            </li>
+        </menu>
+    </div>
+</header>

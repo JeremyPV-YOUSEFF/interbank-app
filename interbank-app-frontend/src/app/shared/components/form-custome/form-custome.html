@@ -1,0 +1,124 @@
+
+
+@switch (opt()) {
+    @case (1) {
+        <div class="flex flex-col mb-5">
+            <fieldset 
+            [ngClass]="{
+                'border-btn-2': this.show() == true, 
+                'border-error' : this.isFieldInvalid() == true,
+            }"
+            class="border-2 rounded-xl">
+                @if (show() || isFieldValid() ) {
+                    <legend class="text-sm ml-4 px-2 text-text-1 font-medium">{{placeholderContent()}}</legend>
+                }
+                <input 
+                (focus)="isFocus()"
+                (blur)="isBlur()"
+                [formField]="this.formFieldData()"
+                [type]="typeInput()" [placeholder]="placeholderContent()" 
+                class="text-xl outline-none py-2 px-3 w-full focus:italic not-focus:not-italic" >
+            </fieldset>
+            @if (isFieldInvalid()) {
+                @for (error of formFieldData()().errors() ; track $index) {
+                    <span class="text-error font-medium" >{{error.message}}</span>
+                }
+            }
+        </div>
+    }
+
+
+    @case (2) {
+        <div class="flex flex-col mb-5">
+            <fieldset 
+            [ngClass]="{
+                'border-btn-2': this.show() == true, 
+                'border-error' : this.isFieldInvalid() == true,
+            }"
+            class="border-2 rounded-xl">
+            <legend class="text-sm ml-4 px-2 text-text-1 font-medium">{{placeholderContent()}}</legend>
+                
+                <input 
+                (focus)="isFocus()"
+                (blur)="isBlur()"
+                [formField]="this.formFieldData()"
+                [type]="typeInput()" [placeholder]="placeholderContent()" 
+                class="text-xl outline-none py-2 px-3 w-full focus:italic not-focus:not-italic" >
+            </fieldset>
+            @if (isFieldInvalid()) {
+                @for (error of formFieldData()().errors() ; track $index) {
+                    <span class="text-error font-medium" >{{error.message}}</span>
+                }
+            }
+        </div>
+    }
+
+    @case (3) {
+        <div class="flex flex-col mb-5">
+            <fieldset 
+            [ngClass]="{
+                'border-btn-2': this.show() == true, 
+                'border-error' : this.isFieldInvalid() == true,
+            }"
+            class="border-2 rounded-xl">
+                
+                <input 
+                (focus)="isFocus()"
+                (blur)="isBlur()"
+                [formField]="this.formFieldData()"
+                [type]="typeInput()" [placeholder]="placeholderContent()" 
+                class="text-xl outline-none py-2 px-3 w-full bg-white rounded-xl" >
+            </fieldset>
+            @if (isFieldInvalid()) {
+                @for (error of formFieldData()().errors() ; track $index) {
+                    <span class="text-red-700  text-tiny font-semibold" >{{error.message}}</span>
+                }
+            }
+        </div>
+    }
+
+
+    @case (4) {
+        <div class="flex flex-col">
+
+            <label for="">
+                <div class="w-full relative">
+                    <input 
+                    (focus)="isFocus()"
+                    (blur)="isBlur()"   
+                    [formField]="this.formFieldData()"
+                    class="outline-none border-b w-full border-slate-400 text-sm"
+                    [type]="showP() ? 'text' : 'password' " [placeholder]="placeholderContent()">
+                    <div class="absolute top-0 right-0 *:cursor-pointer">
+                        @if (showP()) {
+                            <i (click)="changeVisibility()" class="fa-solid fa-eye"></i>
+                        }@else {
+                            <i (click)="changeVisibility()" class="fa-solid fa-eye-slash "></i>
+                        }
+                    </div>
+                </div>
+            </label>
+
+            <!-- <fieldset 
+            [ngClass]="{
+                'border-btn-2': this.show() == true, 
+                'border-error' : this.isFieldInvalid() == true,
+            }"
+            class="border-2 rounded-xl">
+                
+                <input 
+                (focus)="isFocus()"
+                (blur)="isBlur()"
+                [formField]="this.formFieldData()"
+                [type]="typeInput()" [placeholder]="placeholderContent()" 
+                class="text-xl outline-none py-2 px-3 w-full bg-white rounded-xl" >
+            </fieldset> -->
+
+            @if (isFieldInvalid()) {
+                @for (error of formFieldData()().errors() ; track $index) {
+                    <span class="text-red-700  text-tiny font-semibold" >{{error.message}}</span>
+                }
+            }
+        </div>
+    }
+}

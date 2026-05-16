@@ -1,0 +1,18 @@
+@switch (type()) {
+    @case ('green') {
+        <button 
+        type="button"
+        class="bg-card uppercase w-full py-3 px-4 rounded-lg text-tiny text-white hover:bg-card4 cursor-pointer" >{{text()}}</button>
+    }
+    @case ('blue') {
+        <button 
+        (click)="onClick.emit()"
+        type="button"
+        class="bg-main uppercase py-3 px-4 rounded-lg text-tiny text-white hover:bg-secondary cursor-pointer" >{{text()}}</button>
+    }
+    @case ('white') {
+        <button 
+        type="button"
+        class="bg-white uppercase py-3 px-4 rounded-lg text-tiny text-card cursor-pointer font-semibold" >{{text()}}</button>
+    }
+}
